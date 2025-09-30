@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-Sebuah program simulasi ekosistem sederhana yang menerapkan konsep **Inheritance, Polymorphism, dan Composition** dalam bahasa Python dan C++. Program ini memungkinkan pengguna untuk mengelola beberapa habitat dan makhluk hidup di dalamnya.
 
 ---
 
