@@ -20,7 +20,7 @@ Sebuah program simulasi ekosistem sederhana yang menerapkan konsep **Inheritance
 Diagram UML berikut merepresentasikan arsitektur dan hubungan antar kelas dalam program.
 
 
-
+<img src="tp3.drawio.png">
 
 
 
